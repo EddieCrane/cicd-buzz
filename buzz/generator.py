@@ -1,5 +1,5 @@
 from __future__ import print_function
-import random
+# import random
 
 buzz = ('continuous testing', 'continuous integration',
     'continuous deployment', 'continuous improvement', 'devops')
